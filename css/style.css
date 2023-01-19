@@ -1,0 +1,38 @@
+/* header{
+    background-color: rgb(58, 191, 147);
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+
+.header{
+    background-color: rgb(140, 58, 191);
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+#header{
+    background-color: rgb(159, 72, 72);
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+ */
+
+ .border-danger-img{
+    background-color: blueviolet !important;  
+ }
+
+.text-pink{
+    color: #d63384;
+}
+.text-brown{
+    color: #ca6510;
+}
+.text-red{
+    color: #b02a37;
+}
